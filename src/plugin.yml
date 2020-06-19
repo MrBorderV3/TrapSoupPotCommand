@@ -1,0 +1,10 @@
+name: TrapSoupPotCommand
+main: me.border.trapsoup.TrapSoup
+version: 1.0
+author: MrBorder
+commands:
+  pot:
+    description: Fills the player's inventory with pots
+
+  soup:
+    description: Fills the player's inventory with mushroom soups

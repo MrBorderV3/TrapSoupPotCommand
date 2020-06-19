@@ -1,0 +1,11 @@
+notAPlayer: '&cOnly players may execute this command!'
+noPermission: '&cYou may not execute this command!'
+noInventorySpace: '&cYou do not have enough space in your inventory to execute this command!'
+
+Pot:
+  correct-usage: '&cIncorrect usage! the correct usage is &b/pot&c!'
+  successful: '&6Successfully potted!'
+Soup:
+  correct-usage: '&cIncorrect usage! the correct usage is &b/soup&c!'
+  successful: '&6Successfully souped!'
+
